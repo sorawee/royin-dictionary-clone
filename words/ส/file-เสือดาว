@@ -1,0 +1,13 @@
+<div class="panel panel-info"><div class="panel-title"><br>&nbsp;&nbsp;<b>ผลการค้นหา "เสือดาว"</b></div><div class="panel-body" ><div class="panel panel-info" >
+                            <div class="panel-heading" >
+                                <div class="panel-title"><b> เสือดาว ๑ </b></div>
+                            </div> 
+                            <div class="panel-body" ><i>ดู ดาว ๒</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('ดาว ๒')"><u>ดาว ๒</u></label>&nbsp;&nbsp;</div><br><br><div style='padding-left: 20px;'>&nbsp;&nbsp;แม่คำของ "เสือดาว ๑" คือ  &nbsp;&nbsp;<label onclick ="lookupWord1('เสือ ๑')"><u>เสือ ๑</u></label>&nbsp;&nbsp;</div></div></div><div class="panel panel-info" >
+                            <div class="panel-heading" >
+                                <div class="panel-title"><b> เสือดาว ๑ </b></div>
+                            </div> 
+                            <div class="panel-body" ><i>ดูใน เสือ ๑</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('เสือ ๑')"><u>เสือ ๑</u></label>&nbsp;&nbsp;<label onclick ="lookupWord1('เสือ ๑')"><u>เสือ ๑</u></label>&nbsp;&nbsp;</div></div></div><div class="panel panel-info">
+                            <div class="panel-heading">
+                                <div class="panel-title"><b> เสือดาว ๒ </b></div>
+                            </div> 
+                            <div class="panel-body" ><i>ดู ตะกรับ ๓ (๑)</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('ตะกรับ ๓')"><u>ตะกรับ ๓</u></label>&nbsp;&nbsp;<label onclick ="lookupWord1('ตะกรับ ๓')"><u>ตะกรับ ๓</u></label>&nbsp;&nbsp;</div></div></div></div>

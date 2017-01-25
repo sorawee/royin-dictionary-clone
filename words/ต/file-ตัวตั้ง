@@ -1,0 +1,9 @@
+<div class="panel panel-info"><div class="panel-title"><br>&nbsp;&nbsp;<b>ผลการค้นหา "ตัวตั้ง"</b></div><div class="panel-body" ><div class="panel panel-info" >
+                            <div class="panel-heading" >
+                                <div class="panel-title"><b> ตัวตั้ง ๑ </b></div>
+                            </div> 
+                            <div class="panel-body" >&nbsp;(ปาก)&nbsp;น.&nbsp;คำตั้ง.<br><br><div style='padding-left: 20px;'>&nbsp;&nbsp;แม่คำของ "ตัวตั้ง ๑" คือ  &nbsp;&nbsp;<label onclick ="lookupWord1('ตัว ๑')"><u>ตัว ๑</u></label>&nbsp;&nbsp;</div></div></div><div class="panel panel-info">
+                            <div class="panel-heading">
+                                <div class="panel-title"><b> ตัวตั้ง ๒ </b></div>
+                            </div> 
+                            <div class="panel-body" >น.&nbsp;จำนวนเลขที่ตั้งไว้ก่อนสำหรับบวกลบคูณหาร.<br><br><div style='padding-left: 20px;'>&nbsp; แม่คำของ "ตัวตั้ง ๒" คือ  &nbsp;&nbsp;<label onclick ="lookupWord1('ตัว ๒')"><u>ตัว ๒</u></label>&nbsp;&nbsp;</div></div></div></div>

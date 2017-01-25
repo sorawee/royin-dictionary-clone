@@ -1,0 +1,5 @@
+<div class="panel panel-info"><div class="panel-title"><br>&nbsp;&nbsp;<b>ผลการค้นหา "คำสกรรถ"</b></div><div class="panel-body" ><div class="panel panel-info">
+                            <div class="panel-heading">
+                                <div class="panel-title"><b> คำสกรรถ </b></div>
+                            </div> 
+                            <div class="panel-body" ><i>ดู สกรรถ</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('สกรรถ')"><u>สกรรถ</u></label>&nbsp;&nbsp;</div><br><br><div style='padding-left: 20px;'>&nbsp; แม่คำของ "คำสกรรถ" คือ  &nbsp;&nbsp;<label onclick ="lookupWord1('คำ ๒')"><u>คำ ๒</u></label>&nbsp;&nbsp;</div></div></div></div>

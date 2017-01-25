@@ -1,0 +1,13 @@
+<div class="panel panel-info"><div class="panel-title"><br>&nbsp;&nbsp;<b>ผลการค้นหา "ฉู่ฉี่"</b></div><div class="panel-body" ><div class="panel panel-info" >
+                            <div class="panel-heading" >
+                                <div class="panel-title"><b> ฉู่ฉี่ ๑ </b></div>
+                            </div> 
+                            <div class="panel-body" >น.&nbsp;ชื่อแกงอย่างหนึ่ง คล้ายแกงคั่ว มีนํ้าแกงข้น, ถ้าไม่มีนํ้าแกง เรียกว่า ฉู่ฉี่แห้ง.</div></div><div class="panel panel-info" >
+                            <div class="panel-heading" >
+                                <div class="panel-title"><b> ฉู่ฉี่ ๒ </b></div>
+                            </div> 
+                            <div class="panel-body" >น.&nbsp;<i>ดู กุดจี่</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('กุดจี่')"><u>กุดจี่</u></label>&nbsp;&nbsp;</div></div></div><div class="panel panel-info">
+                            <div class="panel-heading">
+                                <div class="panel-title"><b> ฉู่ฉี่ ๓ </b></div>
+                            </div> 
+                            <div class="panel-body" >น.&nbsp;<i>ดู จี่ ๒</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('จี่ ๒')"><u>จี่ ๒</u></label>&nbsp;&nbsp;</div></div></div></div>

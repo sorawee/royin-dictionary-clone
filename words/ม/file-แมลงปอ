@@ -1,0 +1,9 @@
+<div class="panel panel-info"><div class="panel-title"><br>&nbsp;&nbsp;<b>ผลการค้นหา "แมลงปอ"</b></div><div class="panel-body" ><div class="panel panel-info" >
+                            <div class="panel-heading" >
+                                <div class="panel-title"><b> แมลงปอ ๑ </b></div>
+                            </div> 
+                            <div class="panel-body" ><i>ดู ใบโพ ๒</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('ใบโพ ๒')"><u>ใบโพ ๒</u></label>&nbsp;&nbsp;</div></div></div><div class="panel panel-info">
+                            <div class="panel-heading">
+                                <div class="panel-title"><b> แมลงปอ ๒ </b></div>
+                            </div> 
+                            <div class="panel-body" ><i>ดู ปอ ๓</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('ปอ ๓')"><u>ปอ ๓</u></label>&nbsp;&nbsp;</div></div></div></div>

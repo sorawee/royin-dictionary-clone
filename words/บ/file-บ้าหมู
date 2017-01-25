@@ -1,0 +1,9 @@
+<div class="panel panel-info"><div class="panel-title"><br>&nbsp;&nbsp;<b>ผลการค้นหา "บ้าหมู"</b></div><div class="panel-body" ><div class="panel panel-info" >
+                            <div class="panel-heading" >
+                                <div class="panel-title"><b> บ้าหมู ๑ </b></div>
+                            </div> 
+                            <div class="panel-body" ><i>ดู ลมบ้าหมู ๑ ที่ ลม ๑</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('ลมบ้าหมู ๑')"><u>ลมบ้าหมู ๑</u></label>&nbsp;&nbsp;</div></div></div><div class="panel panel-info">
+                            <div class="panel-heading">
+                                <div class="panel-title"><b> บ้าหมู ๒ </b></div>
+                            </div> 
+                            <div class="panel-body" ><i>ดู ลมบ้าหมู ๒ ที่ ลม ๑</i>.<br><br><div style='padding-left: 20px;'>ความหมายที่เกี่ยวข้อง ดู &nbsp;&nbsp;<label onclick ="lookupWord1('ลมบ้าหมู ๒')"><u>ลมบ้าหมู ๒</u></label>&nbsp;&nbsp;</div></div></div></div>

@@ -1,0 +1,5 @@
+<div class="panel panel-info"><div class="panel-title"><br>&nbsp;&nbsp;<b>ผลการค้นหา "นี่แหละ"</b></div><div class="panel-body" ><div class="panel panel-info">
+                            <div class="panel-heading">
+                                <div class="panel-title"><b> นี่แหละ </b></div>
+                            </div> 
+                            <div class="panel-body" >คำแสดงการเน้นให้หนักแน่นยิ่งขึ้น เช่น ฉันนี่แหละ นี่แหละโลก.<br><br><div style='padding-left: 20px;'>&nbsp; แม่คำของ "นี่แหละ" คือ  &nbsp;&nbsp;<label onclick ="lookupWord1('นี่')"><u>นี่</u></label>&nbsp;&nbsp;</div></div></div></div>
